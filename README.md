@@ -1,4 +1,4 @@
-# relecheck
+# ReleCheck
 Track your favourite app updates on GitHub
 
 [http://relecheck.meteor.com](http://relecheck.meteor.com)
