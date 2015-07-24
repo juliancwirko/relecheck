@@ -16,3 +16,8 @@ What should be done here:
 - more functionalities (maybe)
 - better approach to GitHub communication
 - your suggestions...
+
+#### Demo screenshots
+
+![](https://raw.githubusercontent.com/juliancwirko/relecheck/master/demo_img/1.png)
+![](https://raw.githubusercontent.com/juliancwirko/relecheck/master/demo_img/3.png)
