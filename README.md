@@ -1,7 +1,7 @@
 # ReleCheck
 Track your favourite app updates on GitHub
 
-[http://relecheck.meteor.com](http://relecheck.meteor.com)
+[http://www.relecheck.com](http://www.relecheck.com)
 
 Ok, so it is an app which helps me to track GitHub releases. It will send you an email when the new tag or release appears. You can add the GitHub link of your favourite app. This is all what you need to do. You can also go and see details, you can read changelog and see latest tweets about the app. 
 
@@ -16,6 +16,7 @@ What should be done here:
 - more functionalities (maybe)
 - better approach to GitHub communication
 - your suggestions...
+- remove Twitter (I think this isn't a good idea)
 
 #### Demo screenshots
 
